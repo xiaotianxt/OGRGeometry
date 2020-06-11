@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="OGR_Geometry"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OGR_Geometry">
+				<Option output="/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug/OGR_Geometry" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 OGR_Geometry"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OGR_Geometry/fast">
+				<Option output="/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug/OGR_Geometry" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 OGR_Geometry/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/tian/CLionProjects/OGR_Geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/Destructor.cpp">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/Destructor.h">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRCurve.cpp">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRCurve.h">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRCurvePolygon.cpp">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRCurvePolygon.h">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRGeometry.cpp">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRGeometry.h">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRGeometryCollection.cpp">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRGeometryCollection.h">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRLineString.cpp">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRLineString.h">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRLinearRing.cpp">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRLinearRing.h">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRMultiCurve.cpp">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRMultiCurve.h">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRMultiLineString.cpp">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRMultiLineString.h">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRMultiPoint.cpp">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRMultiPoint.h">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRMultiPolygon.cpp">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRMultiPolygon.h">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRMultiSurface.cpp">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRMultiSurface.h">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRPoint.cpp">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRPoint.h">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRPolygon.cpp">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRPolygon.h">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRSimpleCurve.cpp">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRSimpleCurve.h">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRSurface.cpp">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/OGRSurface.h">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/main.cpp">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/util_variable.cpp">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/util_variable.h">
+			<Option target="OGR_Geometry"/>
+		</Unit>
+		<Unit filename="/Users/tian/CLionProjects/OGR_Geometry/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
